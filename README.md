@@ -53,3 +53,11 @@
 ## Commands
 
 - No Commands
+
+# Credits
+
+[Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
+
+[Meteor Rejects Addon](https://github.com/AntiCope/meteor-rejects)
+
+Envy Client (No Longer Available)
