@@ -18,6 +18,10 @@ import net.minecraft.network.packet.s2c.play.EntityStatusS2CPacket;
 
 public class KillSound extends Module {
 
+    public KillSound() {
+        super(AddonCactus.CATEGORY, "Kill Sound", "Plays a sound when you kill any entity.");
+    }
+
     private final MinecraftClient mc = MinecraftClient.getInstance();
 
     private final SettingGroup sgGeneral = settings.getDefaultGroup();
@@ -62,10 +66,6 @@ public class KillSound extends Module {
         public SoundEvent getSoundEvent() {
             return soundEvent;
         }
-    }
-
-    public KillSound() {
-        super(AddonCactus.CATEGORY, "Kill Sound", "Plays a sound when you kill any entity.");
     }
 
     @EventHandler
