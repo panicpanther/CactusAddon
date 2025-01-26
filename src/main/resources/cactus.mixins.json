@@ -3,9 +3,11 @@
   "package": "com.cactus.addon.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
-    "EnderPearlMixin"
   ],
   "injectors": {
     "defaultRequire": 1
-  }
+  },
+  "mixins": [
+    "EnderPearlMixin"
+  ]
 }
