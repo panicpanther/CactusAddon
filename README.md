@@ -36,6 +36,21 @@
 - Now put the jar in the mods folder with the Meteor Client.
 - And now you have the Cactus Addon.
 
+# Info / Q&A
+
+## Version Support
+
+I do not plan to support multiple Minecraft versions currently.
+If you would like to get this addon on your version, sometimes you can just change the mod version to your own or download a version that supports your version.
+
+## Consistent Updates
+
+Consistent updates aren't guaranteed. This addon is just for me to add modules I thought were cool, so basically for testing and learning.
+
+## Why is it called the cactus addon?
+
+cactus.
+
 # Features
 
 ## Modules
