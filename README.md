@@ -40,7 +40,7 @@
 
 ## Version Support
 
-I do not plan to support multiple Minecraft versions currently.
+I do not plan to support multiple Minecraft versions currently, I only update to whatever Minecraft version I'm using.
 If you would like to get this addon on your version, sometimes you can just change the mod version to your own or download a version that supports your version.
 
 ## Consistent Updates
