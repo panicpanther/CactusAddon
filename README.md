@@ -51,6 +51,10 @@ Consistent updates aren't guaranteed. This addon is just for me to add modules I
 
 cactus.
 
+## Can I fork this addon?
+
+Yes of course, just make sure to respect the Licence, Credits, and myself.
+
 # Features
 
 ## Modules
