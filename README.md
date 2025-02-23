@@ -73,7 +73,7 @@ Yes of course, just make sure to respect the Licence, Credits, and myself.
 
 ## HUD Elements
 
-- No HUD Elements
+- Brand
 
 ## Commands
 
