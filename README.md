@@ -13,7 +13,7 @@
 
 <div>
     <p></p>
-    <p>General Utility Addon Cactus Addon For Meteor Client 🤑🌵</p>
+    <p>Cactus Addon For Meteor Client 🤑🌵</p>
     Available Versions: 1.21, 1.21.4
 </div>
 
