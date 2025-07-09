@@ -11,6 +11,7 @@
 
 <p>Cactus Addon For Meteor Client 🤑🌵</p>
 <p><strong>Available Versions:</strong> 1.21, 1.21.4</p>
+<p><sup>Edit: Working with Java sucks, so I get burnt out on pushing updates, sorry! But thank you guys for 200+ downloads!!!!! 🥳🥳🥳</sup></p>
 </div>
 
 ---
