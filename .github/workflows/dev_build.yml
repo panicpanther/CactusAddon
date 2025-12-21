@@ -29,9 +29,8 @@ jobs:
       - name: Create Draft Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: snapshot
-          name: Dev Build
+          tag_name: UPDATE${{ github.run_number }}
+          name: Update #${{ github.run_number }}
           draft: true
           prerelease: true
-          files: |
-            build/libs/*.jar
+          files: build/libs/*.jar
